@@ -1,0 +1,23 @@
+h1 {
+  display: flex;
+  justify-content: center
+}
+
+.userInput {
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 10px;
+}
+
+.btnCount {
+  margin-left: 20px;
+}
+
+.outputDays {
+  text-align: center;
+}
+.errorMessage {
+  text-align: center;
+  color: red;
+}
